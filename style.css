@@ -1,0 +1,28 @@
+* {
+    background-color: bisque;
+    margin: 10px;
+    
+}
+
+.img {
+    text-align: center;
+}
+
+.m_head {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.recipe_list {
+    display: flex;
+}
+
+.recipe_list div {
+    flex: 1;
+    border: 2px solid whitesmoke;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+}
