@@ -1,28 +1,49 @@
 * {
-    background-color: bisque;
-    margin: 10px;
-    
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
-.img {
-    text-align: center;
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    background-color: lightgreen;  
+    color: antiquewhite;
 }
 
-.m_head {
-    text-align: center;
-    font-family: 'Franklin Gothic Medium';
+a {
+    font-weight: bolder;
+    text-decoration: none;
+    list-style: none;
+    color: antiquewhite;
 }
 
-.recipe_list {
+.flex-container {
     display: flex;
+    background-color: mediumseagreen;
+    justify-content: space-between;
+    height: 100px;
+    padding: 20px;
+    align-items: center;
+    margin-top: 10px;
 }
 
-.recipe_list div {
-    flex: 1;
-    border: 2px solid whitesmoke;
-    padding: 30px;
-    margin: 10px;
-    text-align: center;
-    background-color: antiquewhite;
-    color: black;
+ul {
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+    text-align: end;
 }
+
+.item {
+    margin: 5px;
+    list-style-type: none;
+}
+
+img {
+    margin: 20px;
+    border-radius: 50px;
+}
+
+
+
