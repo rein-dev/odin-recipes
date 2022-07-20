@@ -1,4 +1,9 @@
-# odin-recipes
-Project_1_TOP
+Project 1
 
-Learning HTML by building recipe website
+Made a simple website. Things I have learned by completing this project:
+  
+  > How to embed images in html
+  > Make use of different tags (headers, paragraphs etc.)
+  > Provide links on a page
+  
+Here is the live link ==> https://rein-dev.github.io/odin-recipes
