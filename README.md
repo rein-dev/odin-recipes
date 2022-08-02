@@ -1,4 +1,4 @@
-Project 1
+# Project 1
 
 Made a simple website. Things I have learned by completing this project:
 
